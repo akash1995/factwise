@@ -145,3 +145,9 @@ code {
   height: 40px;
   border-radius: 12px;
 }
+
+@media screen and (max-width: 600px) {
+   .container{
+  width: 100%;
+ }
+}
